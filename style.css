@@ -1,0 +1,43 @@
+#head {
+    width: 100%;
+    height: 95vh;
+    border: 3px solid black;
+    border-radius: 50px;
+    background-color: yellow;
+}
+
+.eyes {
+    display: inline-block;
+    width: 25%;
+    height: 25vh;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.pupils {
+    width: 50%;
+    height: 12.5vh;
+    border: 1px solid black;
+    background-color: black;
+}
+
+#mouth {
+    width: 50%;
+    height: 25vh;
+    border: 3px solid black;
+    background-color: red;
+}
+
+.teeth {
+    width: 50%;
+    height: 8vh;
+    border: 1px solid black;
+    background-color: white;
+}
+
+#tongue {
+    width: 35%;
+    height: 5vh;
+    border: 1px solid black;
+    background-color: pink;
+}
